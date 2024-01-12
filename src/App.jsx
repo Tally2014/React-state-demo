@@ -12,7 +12,7 @@ function App() {
       {/*<Scorekeeper/>*/}
       {/*<EmojisClicker/>*/}
       {/*<ScoreKeeperExercise numPlayers={5} target={3}/>*/}
-      <ScoreKeeperColt/>
+      <ScoreKeeperColt numPlayers={5} target={3}/>
     </>
   )
 }
